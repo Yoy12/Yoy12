@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yoy12
-- 👀 I’m interested in making games and cod8ng.
-- 🌱 I’m currently learning to make games.
-- 💞️ I’m looking to collaborate with ... Myself.
-- 📫 How to reach me ... **You can't XD.**
+- 👋 Hello, I am @Yoy12
+- 👀 I am interested in making games, programming, and Machine Learning.
+- 🌱 I am currently learning to make games, amongst other programming topics.
+- 💞️ I am looking to collaborate with ... myself.
+- 📫 How to reach me ... **You cannot XD.**
 
 <!---
 Yoy12/Yoy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
